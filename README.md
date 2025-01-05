@@ -51,3 +51,27 @@ A simple and interactive console-based Bank Management System implemented in Jav
    ```bash
    Copy code
    java BankManagementSystem
+
+## Sample Menu
+Bank Management System
+  1. Open Account
+  2. Deposit Money
+  3. Withdraw Money
+  4. Display Account
+  5. Exit
+  Enter your choice:
+
+## Concepts Demonstrated
+  Encapsulation: Private fields and public getter/setter methods ensure controlled access to class attributes.
+  Abstraction: The Bank class abstracts the details of managing multiple accounts.
+  ArrayList: Used to dynamically store and manage a list of accounts.
+  Scanner: Used for user input.
+
+## Requirements
+Java Development Kit (JDK) 8 or higher.
+
+## Future Enhancements
+Add support for multiple account types (e.g., savings, current).
+Include transaction history for each account.
+Implement user authentication for secure access.
+Add support for file-based or database storage.
