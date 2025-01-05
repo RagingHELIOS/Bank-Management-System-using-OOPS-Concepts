@@ -62,10 +62,10 @@ Bank Management System
   Enter your choice:
 
 ## Concepts Demonstrated
-  Encapsulation: Private fields and public getter/setter methods ensure controlled access to class attributes.
-  Abstraction: The Bank class abstracts the details of managing multiple accounts.
-  ArrayList: Used to dynamically store and manage a list of accounts.
-  Scanner: Used for user input.
+  - Encapsulation: Private fields and public getter/setter methods ensure controlled access to class attributes.
+  - Abstraction: The Bank class abstracts the details of managing multiple accounts.
+  - ArrayList: Used to dynamically store and manage a list of accounts.
+  - Scanner: Used for user input.
 
 ## Requirements
 Java Development Kit (JDK) 8 or higher.
